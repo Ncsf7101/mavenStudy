@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../maven02-pojo/maven02-pojo.iml" filepath="$PROJECT_DIR$/../maven02-pojo/maven02-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../maven03-dao/maven03-dao.iml" filepath="$PROJECT_DIR$/../maven03-dao/maven03-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc06-ssm.iml" filepath="$PROJECT_DIR$/springmvc06-ssm.iml" />
+    </modules>
+  </component>
+</project>
